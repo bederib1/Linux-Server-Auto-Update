@@ -1,6 +1,6 @@
 Open crontab text file and copy
 run sudo crontab -e and paste in open spot
-Edit the path with where your py file is located, the cron tab can be configured to update when you want
+Edit the path with where your py file is located, the current path is within the source folder, the cron tab can be configured to update when you want
 As for the update_log.txt, set the path to that as well to the text file provided as well, 
 this is so that you can check the log by using "cat <update_log.txt path>"
 ENJOY!
